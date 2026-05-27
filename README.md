@@ -1,16 +1,43 @@
-## Hi there 👋
+#  Hi, I'm Jeremy Okeke
 
-<!--
-**offcharts-jm/offcharts-jm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer and athlete based in the UK.  
+I build beginner-friendly software projects to improve my skills and help others learn.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I Do
+- Build simple, clean Python applications  
+- Upload projects consistently to GitHub  
+- Learn through hands-on coding  
+- Improve my athletic performance alongside my tech journey  
+
+---
+
+# Projects
+Here are some of the projects I've created:
+
+-  **Simple Quiz App**  
+-  **Calculator**  
+-  **Number Guessing Game**  
+-  **Rock–Paper–Scissors**  
+-  **Password Generator**  
+-  **Login System**  
+-  **Stopwatch / Timer**
+
+All projects are available here:  
+👉 **https://github.com/offcharts-jm**
+
+---
+
+# Goals
+- Become a stronger Python developer  
+- Build a full portfolio of projects  
+- Improve strength, conditioning, and athletic performance  
+- Create a strong online identity that reflects who I really am  
+
+---
+
+# Contact
+Feel free to reach out or check out my work:
+
+**GitHub:** https://github.com/offcharts-jm  
