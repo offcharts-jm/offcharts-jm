@@ -25,7 +25,7 @@ Here are some of the projects I've created:
 -  **Stopwatch / Timer**
 
 All projects are available here:  
-👉 **https://github.com/offcharts-jm**
+👉 **[https://github.com/offcharts-jm](https://github.com/repos)**
 
 ---
 
