@@ -41,3 +41,4 @@ All projects are available here:
 Feel free to reach out or check out my work:
 
 **GitHub:** https://github.com/offcharts-jm  
+**Email:** jeremyokeke11@gmail.com
