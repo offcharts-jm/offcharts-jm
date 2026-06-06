@@ -1,6 +1,6 @@
 #  Hi, I'm Jeremy Okeke
 
-I'm a Python developer and athlete based in the UK.  
+I'm a Python developer based in the UK.  
 I build beginner-friendly software projects to improve my skills and help others learn.
 
 ---
